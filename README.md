@@ -1,2 +1,1 @@
-# Algorithm-in-Bioinformatics
-A rookie to study Bioinfomatics
+《生物信息学算法导论》(N.C.琼斯, P.A.帕夫纳)学习笔记 
